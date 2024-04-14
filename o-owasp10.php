@@ -50,4 +50,6 @@ $log_message = "User " . $_SESSION['username'] . " accessed sensitive data.";
 // Log the message to a file
 file_put_contents('logs.txt', $log_message, FILE_APPEND);
 
+
+
 ?>
