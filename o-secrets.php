@@ -6,31 +6,29 @@ $db_username = "root";
 $db_password = "";
 
 // Exposed API Key
-$api_key = "YOUR_API_KEY_HERE";
+$api_key = "fsdsfds554rewrew";
 
 // Exposed Secret Key
-$secret_key = "YOUR_SECRET_KEY_HERE";
+$secret_key = "rewtewfdsfdsfdsfds";
 
 // Exposed Password in Plain Text
-$user_password = "YOUR_PASSWORD_HERE";
+$user_password = "rewe3gsfdsfd";
 
 // Exposed Configuration File
 $config = parse_ini_file('config.ini');
 
 // Exposed AWS Access Key and Secret
-$aws_access_key = "YOUR_AWS_ACCESS_KEY_HERE";
-$aws_secret_key = "YOUR_AWS_SECRET_KEY_HERE";
+$aws_access_key = "ASIAY34FZKBOKMUTVV7A";
+$aws_secret_key = "ABCDEFGHIJKLMNOPQRSTUVWXYZ234567";
 
 // Exposed Encryption Key
-$encryption_key = "YOUR_ENCRYPTION_KEY_HERE";
+$encryption_key = "fdsf34rfsfdsfsd";
 
 // Exposed JWT Secret
-$jwt_secret = "YOUR_JWT_SECRET_HERE";
+$jwt_secret = "32refewrerd";
 
 // Exposed SSH Private Key
-$ssh_private_key = "YOUR_SSH_PRIVATE_KEY_HERE";
+$ssh_private_key = "retretyuyiyuiyu";
 
 // Exposed OAuth Client Secret
-$oauth_client_secret = "YOUR_OAUTH_CLIENT_SECRET_HERE";
-
-?>
+$oauth_client_secret = "23rewrewfsfdsfds";
